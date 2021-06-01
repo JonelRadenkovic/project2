@@ -4,4 +4,4 @@
 <p>All JavaScript used for this project is imported!<p>
 
 
-[200~<a href="https://jonelradenkovic.github.io/project3/" rel="nofollow">Click here to see live demo</a>
+i<a href="https://jonelradenkovic.github.io/project2/" rel="nofollow">Click here to see live demo</a>
