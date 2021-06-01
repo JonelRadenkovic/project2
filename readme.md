@@ -1,4 +1,4 @@
-<h1>Project2 / Snow</h>
+<h1>Project2 / Snow</h1>
 
 <p>This was my second project while learning HTML & CSS<p><br>
 <p>All JavaScript used for this project is imported!<p>
